@@ -1,6 +1,6 @@
 # Get ISO Codes
 
-With the help of this server, every user can get data about every currency in the world
+With the help of this server, every user can get data about every currency in the world 🌎
 
 You can get information such as:
 - ISO code
