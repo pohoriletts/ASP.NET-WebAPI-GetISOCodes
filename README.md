@@ -1,4 +1,4 @@
-<img src="https://freerangestock.com/sample/81239/currency-icons.jpg">
+<img src="https://cdn-icons-png.flaticon.com/512/1580/1580782.png">
 # Get ISO Codes
 
 With the help of this server, every user can get data about every currency in the world 🌎
