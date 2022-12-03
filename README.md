@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/512/1580/1580782.png">
+<img src="https://cdn-icons-png.flaticon.com/512/1580/1580782.png" width="100">
 # Get ISO Codes
 
 With the help of this server, every user can get data about every currency in the world 🌎
